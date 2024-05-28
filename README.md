@@ -1,2 +1,2 @@
 # Pytorch
-Still in learning process. Will consistenly update.
+Will consistenly update.
